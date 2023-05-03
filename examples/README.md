@@ -2,11 +2,11 @@ In this folder you will find demo and test pages that use SVG-to-PDFKit:
 &nbsp; &nbsp; 
 
 - See the capabilities of SVG-to-PDFKit with some SVG samples : 
-<a href="https://alafr.github.io/SVG-to-PDFKit/examples/demo.htm" target="_blank">demo.htm</a>
+<a href="https://eriese.github.io/SVG-to-PDFKit/examples/demo.htm" target="_blank">demo.htm</a>
 - Try the various options supported by SVG-to-PDFKit : 
-<a href="https://alafr.github.io/SVG-to-PDFKit/examples/options.htm" target="_blank">options.htm</a>
+<a href="https://eriese.github.io/SVG-to-PDFKit/examples/options.htm" target="_blank">options.htm</a>
 - Run automatic tests to check for regressions (Chrome only) : 
-<a href="https://alafr.github.io/SVG-to-PDFKit/examples/tests.htm" target="_blank">tests.htm</a>
+<a href="https://eriese.github.io/SVG-to-PDFKit/examples/tests.htm" target="_blank">tests.htm</a>
 
 &nbsp; &nbsp;
 
