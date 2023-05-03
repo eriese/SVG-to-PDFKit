@@ -44,9 +44,9 @@ Make sure to name the fonts with the exact pattern 'MyFont', 'MyFont-Bold', 'MyF
 If your fonts don't follow this pattern, or you want to register fonts at the moment they are encountered in the svg, you can use a custom fontCallback function.
 
 ## Demos
-&nbsp; &nbsp; <a href="https://alafr.github.io/SVG-to-PDFKit/examples/demo.htm" target="_blank">https://alafr.github.io/SVG-to-PDFKit/examples/demo.htm</a>
+&nbsp; &nbsp; <a href="https://eriese.github.io/SVG-to-PDFKit/examples/demo.htm" target="_blank">https://alafr.github.io/SVG-to-PDFKit/examples/demo.htm</a>
 
-&nbsp; &nbsp; <a href="https://alafr.github.io/SVG-to-PDFKit/examples/options.htm" target="_blank">https://alafr.github.io/SVG-to-PDFKit/examples/options.htm</a>
+&nbsp; &nbsp; <a href="https://eriese.github.io/SVG-to-PDFKit/examples/options.htm" target="_blank">https://alafr.github.io/SVG-to-PDFKit/examples/options.htm</a>
 
 ## NodeJS example
 &nbsp; &nbsp; <a href="https://runkit.com/alafr/5a1377ff160182001232a91d" target="_blank">https://runkit.com/alafr/5a1377ff160182001232a91d</a>
